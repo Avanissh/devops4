@@ -1,1 +1,2 @@
-Initial line from local machine
+Initial line from local machine.
+Second line.
